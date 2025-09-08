@@ -1,4 +1,5 @@
 # 🛡️ Fraud Detection (Demo)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fraudproject-dteaj5t8y7zjuxsjnovgdf.streamlit.app/)
 
 مشروع تعليمي لاكتشاف الاحتيال في المعاملات البنكية باستخدام **Machine Learning** وواجهة **Streamlit**.
 
