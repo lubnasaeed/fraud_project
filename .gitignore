@@ -15,9 +15,7 @@ creditcard.csv
 sample_creditcard.csv
 
 
-model.joblib
-scaler.joblib
-features.joblib
+
 
 
 .streamlit/
